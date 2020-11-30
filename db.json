@@ -122,18 +122,20 @@
     "label":"Contact.",
     "title":"CONTACT",
     "description":"no commet",
-    "address":{
-      "label":"ADDRESS STREET",
-      "items":["Address : No 221B Down Street","Landon, United Kingdom."]
-    },
-    "phone":{
-      "label":"MOBILE PHONE",
-      "items":["Phone 1: 0(1234) 567 890","Phone 2: 0(987) 567 890"]
-    },
-    "email":{
-      "label":"ADDRESS EMAIL",
-      "items":["info@yourdomain.com","work@yourdomain.com"]
-    },
+    "info": [
+      {
+        "label":"ADDRESS STREET",
+        "items":["Address : No 221B Down Street","Landon, United Kingdom."]
+      },
+      {
+        "label":"MOBILE PHONE",
+        "items":["Phone 1: 0(1234) 567 890","Phone 2: 0(987) 567 890"]
+      },
+      {
+        "label":"ADDRESS EMAIL",
+        "items":["info@yourdomain.com","work@yourdomain.com"]
+      }
+    ],
     "form_url":"https://formspree.io/f/xrgoayzw"
   }
 }
