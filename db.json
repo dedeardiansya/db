@@ -12,7 +12,21 @@
     "description":"no commet",
     "app_name":"DEDEARD",
     "app_title":"PHOTOGRAPHY FROM MAKASSAR, INDONESIA.",
-    "bg_url":"https://picsum.photos/id/1012/300/300"
+    "bg_url":"https://picsum.photos/id/1012/300/300",
+    "socials": [
+      {
+        "label": "INSTAGRAM",
+        "url": "#"
+      },
+      {
+        "label": "FACEBOOK",
+        "url": "#"
+      },
+      {
+        "label": "GITHUB",
+        "url": "#"
+      }
+    ]
   },
   "about":{
     "label":"About.",
