@@ -1,11 +1,11 @@
 {
    "navigation": {
-    "HOME": "HOME",
-    "ABOUT": "ABOUT",
-    "PORTFOLIO": "PORTFOLIO",
-    "CONTACT": "CONTACT",
-    "DARK_MODE": "DARK MODE",
-    "LIGHT_MODE": "LIGHT MODE"
+    "home": "HOME",
+    "about": "ABOUT",
+    "potfolio": "PORTFOLIO",
+    "contact": "CONTACT",
+    "dark_mode": "DARK MODE",
+    "light_mode": "LIGHT MODE"
   },
   "home":{
     "title":"HOME",
