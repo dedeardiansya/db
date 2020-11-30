@@ -1,4 +1,12 @@
 {
+   "navigation": {
+    "HOME": "HOME",
+    "ABOUT": "ABOUT",
+    "PORTFOLIO": "PORTFOLIO",
+    "CONTACT": "CONTACT",
+    "DARK_MODE": "DARK MODE",
+    "LIGHT_MODE": "LIGHT MODE"
+  },
   "home":{
     "title":"HOME",
     "description":"no commet",
